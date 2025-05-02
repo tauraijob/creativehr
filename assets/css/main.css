@@ -11,3 +11,7 @@
         @apply text-text-primary;
     }
 }
+
+.h-auto {
+    height: 100vh !important;
+}
